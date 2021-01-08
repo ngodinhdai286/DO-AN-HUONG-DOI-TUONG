@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="De_Cuoi_Ki.Beer" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Beer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="De_Cuoi_Ki.Cafe" Collapsed="true">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Cafe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="De_Cuoi_Ki.DoanhThuNgay" Collapsed="true">
+    <Position X="9.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAEAAAAAA=</HashCode>
+      <FileName>DoanhThuNgay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="De_Cuoi_Ki.Drink" Collapsed="true">
+    <Position X="3.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABIAAAAAAgAAAABAAAAAIAAAAECAAAAAAAAACAAAA=</HashCode>
+      <FileName>Drink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="De_Cuoi_Ki.Fruit" Collapsed="true">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Fruit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="De_Cuoi_Ki.Menu" Collapsed="true">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAQAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="De_Cuoi_Ki.NguoiDung" Collapsed="true">
+    <Position X="13.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEBCAAgAAEAQAAFAAAAABAAQAAIIAAAAAEAAAA=</HashCode>
+      <FileName>NguoiDung.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="De_Cuoi_Ki.Program" Collapsed="true">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAACAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="De_Cuoi_Ki.QuanLy" Collapsed="true">
+    <Position X="11.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABQACAQAAEEAAQAQAAAACAQBAAAAigFAQAAAAAQAI=</HashCode>
+      <FileName>QuanLy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="De_Cuoi_Ki.RuouVang" Collapsed="true">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RuouVang.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="De_Cuoi_Ki.ThongKe" Collapsed="true">
+    <Position X="13.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAACRAIAIAAAAAAAAAAAAAAQABAAA=</HashCode>
+      <FileName>ThongKe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
