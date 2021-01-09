@@ -1,0 +1,14 @@
+C:\Users\NGUYEN VAN TRUYEN\source\repos\De_Cuoi_Ki\De_Cuoi_Ki\bin\Debug\De_Cuoi_Ki.exe.config
+C:\Users\NGUYEN VAN TRUYEN\source\repos\De_Cuoi_Ki\De_Cuoi_Ki\bin\Debug\De_Cuoi_Ki.exe
+C:\Users\NGUYEN VAN TRUYEN\source\repos\De_Cuoi_Ki\De_Cuoi_Ki\bin\Debug\De_Cuoi_Ki.pdb
+C:\Users\NGUYEN VAN TRUYEN\source\repos\De_Cuoi_Ki\De_Cuoi_Ki\obj\Debug\De_Cuoi_Ki.csprojAssemblyReference.cache
+C:\Users\NGUYEN VAN TRUYEN\source\repos\De_Cuoi_Ki\De_Cuoi_Ki\obj\Debug\De_Cuoi_Ki.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN VAN TRUYEN\source\repos\De_Cuoi_Ki\De_Cuoi_Ki\obj\Debug\De_Cuoi_Ki.exe
+C:\Users\NGUYEN VAN TRUYEN\source\repos\De_Cuoi_Ki\De_Cuoi_Ki\obj\Debug\De_Cuoi_Ki.pdb
+C:\Users\Admin\Downloads\De_Cuoi_Ki\De_Cuoi_Ki\bin\Debug\De_Cuoi_Ki.exe.config
+C:\Users\Admin\Downloads\De_Cuoi_Ki\De_Cuoi_Ki\bin\Debug\De_Cuoi_Ki.exe
+C:\Users\Admin\Downloads\De_Cuoi_Ki\De_Cuoi_Ki\bin\Debug\De_Cuoi_Ki.pdb
+C:\Users\Admin\Downloads\De_Cuoi_Ki\De_Cuoi_Ki\obj\Debug\De_Cuoi_Ki.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\De_Cuoi_Ki\De_Cuoi_Ki\obj\Debug\De_Cuoi_Ki.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\De_Cuoi_Ki\De_Cuoi_Ki\obj\Debug\De_Cuoi_Ki.exe
+C:\Users\Admin\Downloads\De_Cuoi_Ki\De_Cuoi_Ki\obj\Debug\De_Cuoi_Ki.pdb
